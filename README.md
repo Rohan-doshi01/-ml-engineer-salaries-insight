@@ -29,7 +29,7 @@ git clone https://github.com/Rohan-doshi01/-ml-engineer-salaries-insight.git
 ## Navigate to the project directory
 
 ```bash
-cd Salary_Insights
+cd ml-engineer-salaries
 ```
 
 ## Install dependencies
