@@ -1,5 +1,6 @@
+# -ML-Engineer-Salaries-Insight
 
-# Salaries Dashboard
+## Salaries Dashboard
 
 This project is a simple dashboard that displays ML engineer salaries data from the years 2020 to 2024. It allows users to visualize the average salary trends over the years, sort the data, and filter job titles based on the selected year.
 
@@ -57,4 +58,4 @@ npm start
 
 ## Author
 [Rohan Doshi](https://github.com/Rohan-doshi01)
-# -ML-Engineer-Salaries-Insight
+
